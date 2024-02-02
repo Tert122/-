@@ -1,2 +1,1 @@
-                                                                 MINIGAMES
-![Uploading image.png…]()
+                                                                                               Mini Games
