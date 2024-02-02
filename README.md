@@ -5,7 +5,7 @@
 # 3-boss. ![SCP_Secret_Laboratory_Screenshot_2023 12 31_-_18 09 47 85](https://github.com/Tert122/-/assets/158254093/288b0204-b939-4a2d-b5aa-894665b66905)
 # 4-вишьл. ![вышибалы](https://github.com/Tert122/-/assets/158254093/abdccb02-36fb-4d90-abf2-092946cd139c)
 # 5-lava. ![голодные игры](https://github.com/Tert122/-/assets/158254093/163644c8-aa90-40dd-999e-62a5286dbde9)
-# 6-горячая картошка tag. ![горячая картошка](https://github.com/Tert122/-/assets/158254093/b810d0ef-79f5-4074-bc4e-e658ffc14ac5)
+# 6-Hot potato. ![горячая картошка](https://github.com/Tert122/-/assets/158254093/b810d0ef-79f5-4074-bc4e-e658ffc14ac5)
 # 7-Zombie Infection. ![зомби заражение](https://github.com/Tert122/-/assets/158254093/5354f791-ffd5-4a68-ab7f-5e13ec033b2b)
 # 8-red light, green light. ![SCP_Secret_Laboratory_Screenshot_2023 12 31_-_18 25 24 44](https://github.com/Tert122/-/assets/158254093/6a8b9fbf-734a-4ae9-945e-706792954ca7)
 # 9-knives. ![мог против пх на палках](https://github.com/Tert122/-/assets/158254093/a4da7873-0024-40cd-8565-3608bbb8d9a2)
