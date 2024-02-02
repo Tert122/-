@@ -2,7 +2,7 @@
 МОТВАРД ЛОХ ![b6930e69837568158a3a4b4fe0acf9e3](https://github.com/Tert122/-/assets/158254093/0644a562-fc17-4311-a3a4-53032ead2dee)
         ХУЙ https://cdn.discordapp.com/avatars/782665805619658762/bb61736e0f6d0cbc670bbc60276eb281.png?size=512
 
-горячая картошка,https://cdn.discordapp.com/attachments/1113570546731462737/1202221822360158209/SCP_Secret_Laboratory_Screenshot_2023.12.31_-_18.21.46.22.png?ex=65ccab52&is=65ba3652&hm=97276346c26f44ff9d8909c1ff8d293b6319b989c71bf620eb62a483be9b10cd&. 
+ГОРЯЧАЯ КАРТОШКА !https://cdn.discordapp.com/attachments/1113570546731462737/1202221822360158209/SCP_Secret_Laboratory_Screenshot_2023.12.31_-_18.21.46.22.png?ex=65ccab52&is=65ba3652&hm=97276346c26f44ff9d8909c1ff8d293b6319b989c71bf620eb62a483be9b10cd&. 
 
 вышибалки, https://cdn.discordapp.com/attachments/1113570546731462737/1202221849409507358/SCP_Secret_Laboratory_Screenshot_2023.12.31_-_18.24.27.78.png?ex=65ccab59&is=65ba3659&hm=efdf279e2f455cf5a389d267a6f24779fdfbc0fc6277b855467c229c11c2c06a&.
 
