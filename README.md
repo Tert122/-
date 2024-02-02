@@ -1,6 +1,6 @@
 # Mini Games               
 # Name:
-# 1-fall guys. ![Uploading image.png…]()
+# 1-fall guys. 
 
 # 2-смертельный круг. 
 # 3-босс файт. 
