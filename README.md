@@ -1,6 +1,6 @@
 # Mini Games               
 # Name:
-# 1-fall guys. ![Uploading SCP_Secret_Laboratory_Screenshot_2023.12.31_-_18.17.19.37-1.png…]()
+# 1-fall guys. ![SCP_Secret_Laboratory_Screenshot_2023.12.31_-_18.17.19.37-1.png…]
 
 
 # 2-смертельный круг. 
