@@ -1,7 +1,7 @@
 # Mini Games               
 ### Race
 #### you have to pass a short test to win.
-.![SCP_Secret_Laboratory_Screenshot_2023 12 31_-_18 17 19 37-1](https://github.com/Tert122/-/assets/158254093/81c0e383-e334-4b05-a328-5675a55b10f2) 
+![SCP_Secret_Laboratory_Screenshot_2023 12 31_-_18 17 19 37-1](https://github.com/Tert122/-/assets/158254093/81c0e383-e334-4b05-a328-5675a55b10f2) 
 
 ### airstrike
 #### Grenades begin to spawn on the map.
@@ -26,7 +26,7 @@
 ### Hot potato
 #### Run and hide from the players, otherwise you yourself will become caught up.
 #### To survive, pass the bat to another player.
-. ![горячая картошка](https://github.com/Tert122/-/assets/158254093/b810d0ef-79f5-4074-bc4e-e658ffc14ac5)
+![горячая картошка](https://github.com/Tert122/-/assets/158254093/b810d0ef-79f5-4074-bc4e-e658ffc14ac5)
 
 ### 7-Zombie Infection
 #### Zombie infestation. the goal of which is to infect all players.
