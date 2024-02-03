@@ -1,5 +1,4 @@
 # Mini Games               
-# Name:
 # Race:
 ### you have to pass a short test to win.
 .![SCP_Secret_Laboratory_Screenshot_2023 12 31_-_18 17 19 37-1](https://github.com/Tert122/-/assets/158254093/81c0e383-e334-4b05-a328-5675a55b10f2) 
