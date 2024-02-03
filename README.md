@@ -28,7 +28,7 @@
 #### To survive, pass the bat to another player.
 ![горячая картошка](https://github.com/Tert122/-/assets/158254093/b810d0ef-79f5-4074-bc4e-e658ffc14ac5)
 
-### 7-Zombie Infection
+### Zombie Infection
 #### Zombie infestation. the goal of which is to infect all players.
 ![зомби заражение](https://github.com/Tert122/-/assets/158254093/5354f791-ffd5-4a68-ab7f-5e13ec033b2b)
 
@@ -46,12 +46,12 @@
 #### move to the music and don't stop 
 ![image](https://github.com/Tert122/-/assets/158254093/cae3b294-f2ef-488f-a7c3-dd2a23414443)
 
-### 11-fall
+### fall
 #### The map is destroyed. Survive on the remaining blocks.
 #### The last player standing is the winner.
 ![падающие панельки](https://github.com/Tert122/-/assets/158254093/de235555-e7ac-48dd-942c-054646620d75)
 
-### 12-versus
+### versus
 #### Players are divided into teams. in the center of the map there is a room in which the competition will take place.
 #### To take part you need to go through the door.
 ![питушиные бои](https://github.com/Tert122/-/assets/158254093/862e36e6-8e1b-4823-80c0-254b98e8a136)
@@ -60,7 +60,7 @@
 #### select the correct panel to reach the finish line
 ![стеклянная дорожка](https://github.com/Tert122/-/assets/158254093/1a095896-94a7-49bc-b52d-963c82e5aa41)
 
-### 14-Puzzle
+### Puzzle
 #### players appear on the map with colorful platforms that change color.
 #### Find a suitable platform based on the color indicated on the walls to survive.
 ![SCP_Secret_Laboratory_Screenshot_2023 12 31_-_18 13 38 38-1](https://github.com/Tert122/-/assets/158254093/440bda2c-609d-409e-bf58-6d2b2e7fa3e2)
