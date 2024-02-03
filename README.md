@@ -1,21 +1,21 @@
 # Mini Games               
 # Name:
 ### Race:
-##### you have to pass a short test to win
+##### you have to pass a short test to win.
 .![SCP_Secret_Laboratory_Screenshot_2023 12 31_-_18 17 19 37-1](https://github.com/Tert122/-/assets/158254093/81c0e383-e334-4b05-a328-5675a55b10f2) 
 
 # airstrike:
-#####Grenades begin to spawn on the map
-#####survive to win
+#####Grenades begin to spawn on the map.
+#####survive to win.
 ![беги или умри](https://github.com/Tert122/-/assets/158254093/9bbf9495-a68f-4571-89d3-769bba1a4714)
 
 # boss:
 ##### A boss appears on the map and wants to kill everyone.
-##### Kill him to win
+##### Kill him to win.
 ![SCP_Secret_Laboratory_Screenshot_2023 12 31_-_18 09 47 85](https://github.com/Tert122/-/assets/158254093/288b0204-b939-4a2d-b5aa-894665b66905)
 
 # bouncers 
-##### both teams have balls
+##### both teams have balls.
 #####your task is to kill the opposite team, the team that stays alive wins.
 ![вышибалы](https://github.com/Tert122/-/assets/158254093/abdccb02-36fb-4d90-abf2-092946cd139c)
 
