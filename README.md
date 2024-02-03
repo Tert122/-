@@ -19,7 +19,11 @@
 #####your task is to kill the opposite team, the team that stays alive wins.
 ![вышибалы](https://github.com/Tert122/-/assets/158254093/abdccb02-36fb-4d90-abf2-092946cd139c)
 
-# 5-lava:ивент в котором нужно убить всех пока поднимается лава!. ![голодные игры](https://github.com/Tert122/-/assets/158254093/163644c8-aa90-40dd-999e-62a5286dbde9)
+# 5-lava:
+## The lava begins to rise, climb one of the towers to confront other players.
+## weapons will be scattered around the map.
+![голодные игры](https://github.com/Tert122/-/assets/158254093/163644c8-aa90-40dd-999e-62a5286dbde9)
+
 # 6-Hot potato:у нескольких игроков будут палки(это горячая картошка) отних нужно убегать а не-то вам дадут картошку. ![горячая картошка](https://github.com/Tert122/-/assets/158254093/b810d0ef-79f5-4074-bc4e-e658ffc14ac5)
 # 7-Zombie Infection:появляется 1 зомби который вдальнейшем будут заражать других д-классов,твоя задача ВЫЖИТЬ!. ![зомби заражение](https://github.com/Tert122/-/assets/158254093/5354f791-ffd5-4a68-ab7f-5e13ec033b2b)
 # 8-red light, green light:игра в целом проста зелёный иди, красный стой. ![SCP_Secret_Laboratory_Screenshot_2023 12 31_-_18 25 24 44](https://github.com/Tert122/-/assets/158254093/6a8b9fbf-734a-4ae9-945e-706792954ca7)
