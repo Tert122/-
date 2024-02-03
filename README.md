@@ -13,7 +13,7 @@
 #### Kill him to win.
 ![SCP_Secret_Laboratory_Screenshot_2023 12 31_-_18 09 47 85](https://github.com/Tert122/-/assets/158254093/288b0204-b939-4a2d-b5aa-894665b66905)
 
-### Bouncers 
+### SnowBall
 #### Both teams have balls.
 #### Your task is to kill the opposite team, the team that stays alive wins.
 ![вышибалы](https://github.com/Tert122/-/assets/158254093/abdccb02-36fb-4d90-abf2-092946cd139c)
