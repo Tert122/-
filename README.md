@@ -6,7 +6,7 @@
 ### Airstrike
 #### Grenades begin to spawn on the map.
 #### Survive to win.
-![беги или умри](https://github.com/Tert122/-/assets/158254093/9bbf9495-a68f-4571-89d3-769bba1a4714)
+![SCP_Secret_Laboratory_Screenshot_2023 12 31_-_18 08 09 81](https://github.com/Tert122/-/assets/158254093/98ea550c-295e-4b9d-bfa5-1242c8ec6d98)
 
 ### Boss
 #### A boss appears on the map and wants to kill everyone.
